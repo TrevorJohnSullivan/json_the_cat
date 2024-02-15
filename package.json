@@ -19,5 +19,12 @@
   "homepage": "https://github.com/TrevorJohnSullivan/json_the_cat#readme",
   "dependencies": {
     "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "chai": "^5.1.0",
+    "mocha": "^10.3.0"
   }
 }
+
+
+
